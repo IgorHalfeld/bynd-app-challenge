@@ -1,12 +1,10 @@
 <p align="center">
   <a href="https://rocketseat.com.br">
-    <img src="./src/assets/logo.png" alt="Logo" width="90">
+    <img src="./src/assets/logo.png" alt="Logo" width="120">
   </a>
 
   <h3 align="center">Bynd App Challenge</h3>
 </p>
-
----
 
 ![screens](./src/assets/banner1.png)
 
