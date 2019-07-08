@@ -3,8 +3,10 @@
     <img src="./src/assets/logo.png" alt="Logo" width="120">
   </a>
 
-  <h3 align="center">Bynd App Challenge</h3>
+  <h2 align="center">Bynd App Challenge</h2>
 </p>
+
+<br />
 
 ![screens](./src/assets/banner1.png)
 
